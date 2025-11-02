@@ -19,5 +19,47 @@
     "price": 1.1,
     "image":
       "https://upload.wikimedia.org/wikipedia/commons/c/c4/Orange-Fruit-Pieces.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Watermelon",
+    "price": 7.0,
+    "image":
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Watermelon_cross_BNC.jpg/500px-Watermelon_cross_BNC.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Pitaya",
+    "price": 3.5,
+    "image":
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Pitaya_cross_section_ed2.jpg/500px-Pitaya_cross_section_ed2.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Lemon",
+    "price": 3.0,
+    "image":
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/P1030323.JPG/500px-P1030323.JPG"
+  },
+  {
+    "id": 7,
+    "name": "Avocado",
+    "price": 5.25,
+    "image":
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Avocado_Hass_-_single_and_halved.jpg/500px-Avocado_Hass_-_single_and_halved.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Kiwi",
+    "price": 1.1,
+    "image":
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Kiwifruit_cross_section.jpg/500px-Kiwifruit_cross_section.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Cranberry",
+    "price": 3.5,
+    "image":
+      "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Cranberries20101210.jpg/500px-Cranberries20101210.jpg"
   }
 ]
